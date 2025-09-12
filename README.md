@@ -1,7 +1,7 @@
 ### Hi, I am @chourase205👋
 🌱 I’m currently learning ...Python programing language
 💞️ I’m looking to collaborate on ... any project
-📫 How to reach me..via my email - mayurichourase2056@gmai.com
+📫 How to reach me..via my email - mayurichourase2056@gmail.com
 
 
 <!--
