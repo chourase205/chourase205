@@ -1,7 +1,7 @@
 # 👋Hi, I am @chourase205
-🔭 I’m currently learning ... **Python** programing language
+🔭 I’m currently learning **Python** programing language
 <br>
-💞️ I’m looking to collaborate on ... any project
+💞️ I’m looking to collaborate on any project
 <!--
 **chourase205/chourase205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👩‍💻 About me
-🌱 I’m currently exploring ... Cloud Computing with **AWS**
+🌱 I’m currently exploring Cloud Computing with **AWS**
+<br>
 🧠 Interested to learn new technologies and collaborate on open-source projects
+<br>
 📫 How to reach me..via my email - mayurichourase2056@gmail.com
 
 ## 🌐 Connect with Me
